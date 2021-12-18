@@ -30,7 +30,7 @@ Convenções adotadas no game para ganhar ou perder:
 
 Eduardo Brandiao, natural de Vitória/ES, casado, residente no estado do Rio de Janeiro. Atualmente trabalha como Consultor SAP em processos de melhoria contínua na Indústria de Petróleo e Gás, com foco em eficiência operacional e redução de custo.
 
-Graudado em Administração de empresas e em Análise e desenvolvimento de sistemas, possui como softskill principal o entusiasmo por aprendizado em Tecnologias, mais precisamente linguagens de programação. Especializou-se em Formação SAP, com academias nos módulos de MM, ABAP, BASIS e PM. 
+Graudado em Administração de empresas e em Análise e desenvolvimento de sistemas, possui como softskill principal o entusiasmo por aprendizado em Tecnologias, mais precisamente linguagens de programação. Especializou-se no sistema SAP, com formação nas academias dos módulos de MM, ABAP, BASIS e PM, tornando-se especialista em supply chain management. 
 
 Formado no Bootcamp fulltime de Fullstack Web Development pela LEWAGON, onde cursou os batch #690 e #766. No momento de desenvolvimento desse game, cursa o Bootcamp de Fullstack Web development na Ironhack, com o foco de se especializar-se ainda mais nas stacks de back-end e front-end.
 
