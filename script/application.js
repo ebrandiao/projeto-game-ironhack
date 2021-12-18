@@ -13,7 +13,7 @@ const showHint = () => {
 const startTime = () => {
   intervalId = setInterval(() => {
     segundos += 1;
-    if (segundos < 30) {
+    if (segundos < 31) {
       timer.innerText = segundos;
     } else {
       youLose.innerText = "YOU LOSE!!!";
