@@ -4,6 +4,8 @@ const timer = document.querySelector('#timer');
 const youLose = document.querySelector('#youLose');
 let intervalId = null;
 let segundos = 0;
+let limite = 30;
+
 
 const showHint = () => {
   const hint = document.querySelector('.hint');
@@ -13,7 +15,7 @@ const showHint = () => {
 const startTime = () => {
   intervalId = setInterval(() => {
     segundos += 1;
-    if (segundos < 31) {
+    if (segundos < limite) {
       timer.innerText = segundos;
     } else {
       youLose.innerText = "YOU LOSE!!!";
@@ -23,7 +25,8 @@ const startTime = () => {
 
 button.addEventListener('click', showHint);
 
-const Eventos = (event) => {
+
+const eventos = (event) => {
   const caixaClicada = event.currentTarget;
   const vazio = document.querySelector('.empty');
 
@@ -43,10 +46,14 @@ const Eventos = (event) => {
     caixaClicada.classList.add('empty');
     caixaClicada.innerHTML = '';
   }
-
 }
 
+
 caixas.forEach((caixa) => {
-  caixa.addEventListener('click', Eventos)
+  caixa.addEventListener('click', (evento) => {
+    if (segundos < limite) {
+      eventos(evento);
+    }
+  })
 })
 
