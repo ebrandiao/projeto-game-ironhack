@@ -1,32 +1,32 @@
-Project game - module 01 # Ironhack
+**Project game - module 01 # Ironhack**
 
 https://ebrandiao.github.io/projeto-game-ironhack/
 
-Game memory
+**Game memory**
 
-O QUE É
+**O QUE É**
 
 Um jogo para computador baseado no famoso jogo de organizar a sequencia dos personagens lado a lado.
 
-A QUEM SE DESTINA - OBJETIVO
+**A QUEM SE DESTINA - OBJETIVO**
 
 Este projeto é o resultado do trabalho do módulo 1 do Bootcamp Web Development da IRONHACK. O objetivo deste documento é facilitar a compreenção do escopo do projeto e de como funciona o jogo.
 
-INSTALAÇÃO LOCAL
+**INSTALAÇÃO LOCAL**
 
 • N/A (O jogo roda em qualquer navegador do seu computador).
 
-Regras do Jogo
+**Regras do Jogo**
 
 Convenções adotadas no game para ganhar ou perder:
 
 • Para começar o jogo clique o botão Start; • Para mover a organização, o usuário deve clicar em cima do personagem próximo ao quadrado preto para movimentar e organizar em pares.
 
-BIBLIOTECAS DO PROJETO
+**BIBLIOTECAS DO PROJETO**
 
 • Jogo feito usando HTML, CSS e JavaScript
 
-SOBRE O AUTOR
+**SOBRE O AUTOR**
 
 Eduardo Brandiao, natural de Vitória/ES, casado, residente no estado do Rio de Janeiro. Atualmente trabalha como Consultor SAP em processos de melhoria contínua na Indústria de Petróleo e Gás, com foco em eficiência operacional e redução de custo.
 
